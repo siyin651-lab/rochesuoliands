@@ -1,0 +1,15 @@
+{
+  "id": "role-image-sender",
+  "name": "角色图片代发",
+  "version": "1.0.0",
+  "description": "以角色身份发送图片消息，用于锁脸等场景",
+  "author": "你的名字",
+  "entry": "https://raw.githubusercontent.com/你的用户名/仓库名/main/plugin.js",
+  "hash": "",
+  "permissions": [
+    "character:read",
+    "memory:read",
+    "storage",
+    "ui"
+  ]
+}
